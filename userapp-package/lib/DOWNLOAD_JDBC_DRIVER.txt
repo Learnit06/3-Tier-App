@@ -1,0 +1,20 @@
+MySQL JDBC Driver - Download Instructions
+
+The MySQL Connector/J (JDBC driver) is required for this application to connect to MySQL database.
+
+Download URL:
+https://repo1.maven.org/maven2/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar
+
+To download:
+1. Navigate to the lib/ directory
+2. Run: wget https://repo1.maven.org/maven2/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar
+
+Or download manually from:
+https://dev.mysql.com/downloads/connector/j/
+
+File size: ~2.5 MB
+Version: 8.0.33
+License: GPL v2 (with FOSS exception)
+
+Note: The JDBC driver JAR file is not included in this package due to licensing and size considerations.
+You must download it separately before building the application.

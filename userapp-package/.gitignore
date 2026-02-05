@@ -1,0 +1,46 @@
+# Compiled class files
+*.class
+
+# WAR files
+*.war
+
+# Log files
+*.log
+
+# Package Files
+*.jar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Virtual machine crash logs
+hs_err_pid*
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# Build directories
+WebContent/
+target/
+build/
+dist/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Configuration files with sensitive data
+config.properties
+database.properties
+
+# Backup files
+*.bak
+*.backup
+*~
